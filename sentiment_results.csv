@@ -1,0 +1,9 @@
+review,compound_score,sentiment
+The story was wonderful and the characters were amazing.,0.8176,Positive
+I enjoyed this book and would recommend it to everyone.,0.7003,Positive
+The book was boring and the writing was disappointing.,-0.6705,Negative
+The plot was confusing and I did not enjoy reading it.,-0.5466,Negative
+"The book was okay, with some good and some weak parts.",0.2263,Positive
+Excellent writing and a very engaging story.,0.7501,Positive
+The ending was poor and the book felt too slow.,-0.4767,Negative
+A useful book with clear explanations.,0.6705,Positive
